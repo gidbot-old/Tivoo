@@ -1,0 +1,40 @@
+COMPSCI-108 README for PICASSA Assignment: Part 1, Spring 2012
+------------------------------------------------------------------------------------------
+Name: Yinan, XIE
+NetID: yx36
+------------------------------------------------------------------------------------------
+
+Date of Start: January, 16th, 2012
+Date of Completion: January, 17th, 2012
+Estimation of hours: About 5-10 hours
+Real hours of work: Approximately 4 hours and 45 minutes.
+
+Date of submission: 3:00am, January,17th, 2012
+------------------------------------------------------------------------------------------
+Students who I discuss with:
+
+Mr.SHI Jiawei
+Mr.ZHU Chenbo
+
+I discussed with Mr.SHI about the frame of the program and general thoughts of this assignment.
+I discussed with Mr.ZHU about how to deal with the "x y" operation and he suggested to add a 
+new "EXPRESSION_XY_REGEX". Other parts of the assignment is totally finished by me alone.
+
+------------------------------------------------------------------------------------------
+Online resources I used while doing my assignment:
+1)http://www.java2s.com/CN/Tutorial/Java/0120__Development/FindsquarerootofanumberusingMathsqrt.htm
+2)http://www.java-tips.org/java-se-tips/java.lang/what-is-a-java-subclass.html
+3)http://journals.ecs.soton.ac.uk/java/tutorial/java/javaOO/subclass.html
+
+I had some problem starting with square-root and subclass so I checked these information via internet.
+
+
+------------------------------------------------------------------------------------------
+Thoughts about this assignment:
+
+
+I start this course after last semester's CS100 and I had to say that Michael has a different assignment style 
+than Ola. Little hints were provided about this assignment at first and I was quite stuck at how to start. But with 
+the help Michael offered on Piazza the assignment became pretty clear and easy. Though I still got some problem 
+on how to solve the xy operation. I tried to make the code 'flexible' but chances exist that I need further improvement.
+
