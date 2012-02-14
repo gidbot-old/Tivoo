@@ -1,0 +1,26 @@
+<Calendar>
+	<Event>
+		<Name>Football Game</Name>
+		<Location>Wallace Wade</Location>
+		<Date>2/20/12 14:00</Date>
+		<Link>footballLink</Link>
+	</Event>
+	<Event>
+		<Name>Basketball Game</Name>
+		<Location>Cameron</Location>
+		<Date>2/17/12 16:00</Date>
+		<Link>basketballLink</Link>
+	</Event>
+	<Event>
+		<Name>Speech</Name>
+		<Location>Griffith</Location>
+		<Date>2/13/12 20:30</Date>
+		<Link>speechLink</Link>
+	</Event>
+	<Event>
+		<Name>LibraryParty</Name>
+		<Location>Perkins</Location>
+		<Date>2/20/12 22:00</Date>
+		<Link>libraryLink</Link>
+	</Event>
+</Calendar>
